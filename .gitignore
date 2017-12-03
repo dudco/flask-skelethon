@@ -99,3 +99,18 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# db
+*.db
+
+# migrate
+migrations/
+
+# sijax
+sijax/
+
+# Mac
+.DS_Store
+
+# server log
+server_log.*
